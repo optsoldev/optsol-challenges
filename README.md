@@ -10,7 +10,7 @@ Espaço criado para as pessoas que estão em busca de uma oportunidade ou realoc
 
 ### Nossas Oportunidades
 
-- [Especialista UI/UX](https://example.com)
+- [Especialista UI/UX](https://github.com/optsoldev/optsol-challenges/tree/master/ui_ux)
 
 ### Nossa Mídias
 
