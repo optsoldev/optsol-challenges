@@ -19,4 +19,11 @@ Que utilize das técnicas de usabilidade para determinar a experiencia do usuár
 ### Como esperamos
 Um protótipo de alta fidelidade, utilizando plataformas de prototipagem como figma, XD ou semelhantes, que será enviado ao email atendimento@optsol.com.br com o assunto "[UI/UX]-[SEU NOME] [CIDADE]".
 
+
+### O que oferecemos
+- [x] Trabalho remoto
+- [x] Horário flexivel
+- [x] Remuneração Compativel com o Mercado.
+
+
 Sinta-se a vontade para nos enviar seu portifólio.
