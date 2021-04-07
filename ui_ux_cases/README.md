@@ -15,14 +15,14 @@ Sou um vendedor ambulante, fico pelas praias de Vila Velha-ES vendendo meu produ
 ### O que esperamos
 Que utilize das técnicas de usabilidade para determinar a experiencia do usuário e que crie um protótipo funcional para avaliarmos o seu conhecimento.
 
-
 ### Como esperamos
-Um protótipo de alta fidelidade, utilizando plataformas de prototipagem como figma, XD ou semelhantes, que será enviado ao email atendimento@optsol.com.br com o assunto "[UI/UX]-[SEU NOME] [CIDADE]".
+Você terá **10** dias para enviar um protótipo de alta fidelidade, utilizando plataformas de prototipagem como figma, XD ou semelhantes, que será enviado ao email atendimento@optsol.com.br com o assunto "[UI/UX]-[SEU NOME] [CIDADE]".
 
 
 ### O que oferecemos
 - [x] Trabalho remoto
 - [x] Horário flexivel
+- [x] Regime CLT ou PJ
 - [x] Remuneração Compativel com o Mercado.
 
 
