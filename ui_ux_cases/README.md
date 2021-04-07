@@ -11,7 +11,7 @@ Aqui você encontra os requisitos para usar sua criatividade e aplicar todo seu 
 
 ### Case
 
-Somos um vendedor ambulante, fico pelas praias de Vila Velha-ES vendendo meu produto, meu público-alvo são os turistas e frequentadores destas praias, preciso desenvolver um app de para mostrar às pessoas onde estou e quais são meus produtos; tendo em vista que o app precisa de: um login social, cadastro de produtos, cadastro de itens e localização por GPS.
+Sou um vendedor ambulante, fico pelas praias de Vila Velha-ES vendendo meu produto, meu público-alvo são os turistas e frequentadores destas praias, preciso desenvolver um app de para mostrar às pessoas onde estou e quais são meus produtos; tendo em vista que o app precisa de: um login social, cadastro de produtos, cadastro de itens e localização por GPS.
 
 ### O que esperamos
 
