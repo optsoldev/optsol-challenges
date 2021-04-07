@@ -14,6 +14,6 @@ Espaço criado para as pessoas que estão em busca de uma oportunidade ou realoc
 
 ### Nossa Mídias
 
-* [SITE](https://www.optsol.com.br/)
-* [INSTAGRAM](https://www.instagram.com/optsoltecnologia/?hl=pt-br)
-* [LINKEDIN](https://www.linkedin.com/company/optsoltecnologia/about/)
+* [Site](https://www.optsol.com.br/)
+* [Instagram](https://www.instagram.com/optsoltecnologia/?hl=pt-br)
+* [Linked-in](https://www.linkedin.com/company/optsoltecnologia/about/)
