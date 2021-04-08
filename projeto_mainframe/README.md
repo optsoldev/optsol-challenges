@@ -5,7 +5,7 @@
 
 ### Objetivo
 
-Profissionais de tecnologia com mais de 40 anos, que não esteja trabalhando atualmente e que queira atualizar os seus conhecimentos.
+Profissionais de tecnologia com mais de 40 anos, que não esteja trabalhando atualmente e que queiram atualizar os seus conhecimentos de infraestrutura e conhecer a cultura DevOps.
 
 *"Panela velha é que faz comida boa"* - **Reis, Sergio**.
 
