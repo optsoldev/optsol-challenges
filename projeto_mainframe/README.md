@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asserts/eniac.jpg" width="300">
+    <img src="asserts/Eniac.jpg" width="300">
 <p>
 <h1 align="center">Formatando Mainframe.</h1>
 
