@@ -19,4 +19,8 @@ Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atu
 - [x] Estágio não remunerado
 
 Venha fazer parte! 
+<<<<<<< HEAD
 Faca sua inscrição [**aqui**](https://forms.gle/3AtVVZXm68fJzRXt7).
+=======
+Faca sua inscrição [**aqui**](https://forms.gle/3AtVVZXm68fJzRXt7).
+>>>>>>> 9dd7a3aece03163483d596594f3d9bd509e8a884
