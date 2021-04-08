@@ -19,4 +19,4 @@ Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atu
 - [x] Estágio não remunerado
 
 Venha fazer parte! 
-Faca sua inscrição [**aqui**](https://www.optsol.com.br/).
+Faca sua inscrição [**aqui**](https://forms.gle/3AtVVZXm68fJzRXt7).
