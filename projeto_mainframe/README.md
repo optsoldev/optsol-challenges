@@ -13,7 +13,7 @@ Profissionais de tecnologia com mais de 40 anos, que não esteja trabalhando atu
 É um programa que transforma antigos conhecimentos de infraestrutura, para infraestrutura de computação na nuvem.
 
 ### O que oferecemos
-- [x] Estudo remoto remoto
+- [x] Estudo remoto
 - [x] Voucher com os cursos do programa
 - [x] Camisa personalizada do programa
 - [x] Estágio não remunerado
