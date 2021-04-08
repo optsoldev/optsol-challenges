@@ -1,0 +1,22 @@
+<p align="center">
+    <img src="asserts/eniac.jpg" width="300">
+<p>
+<h1 align="center">Formatando Mainframe.</h1>
+
+### Objetivo
+
+Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atualmente e que queira atualizar o seus conhecimentos.
+
+*"Panela velha é que faz comida boa"* - **Reis, Sergio**.
+
+### O que esperamos
+É um programa que transforma antigos conhecimentos de infraestrutura, para infraestrutura de computação na nuvem.
+
+### O que oferecemos
+- [x] Estudo remoto remoto
+- [x] Voucher com os cursos do programa
+- [x] Camisa personalizada do programa
+- [x] Estágio não remunerado
+
+Venha fazer parte! 
+Faca sua inscrição [**aqui**](https://www.optsol.com.br/).
