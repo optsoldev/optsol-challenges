@@ -18,5 +18,6 @@ Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atu
 - [x] Camisa personalizada do programa
 - [x] Estágio não remunerado
 
-Venha fazer parte! 
+Venha fazer parte!
+
 Faca sua inscrição [**aqui**](https://forms.gle/3AtVVZXm68fJzRXt7).
