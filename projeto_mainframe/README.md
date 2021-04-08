@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="asserts/eniac.jpg" width="300">
+    <img src="asserts/Eniac.jpg" width="300">
 <p>
 <h1 align="center">Formatando Mainframe.</h1>
 
@@ -19,4 +19,4 @@ Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atu
 - [x] Estágio não remunerado
 
 Venha fazer parte! 
-Faca sua inscrição [**aqui**](https://www.optsol.com.br/).
+Faca sua inscrição [**aqui**](https://forms.gle/3AtVVZXm68fJzRXt7).
