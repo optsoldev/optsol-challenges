@@ -5,7 +5,7 @@
 
 ### Objetivo
 
-Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atualmente e que queira atualizar o seus conhecimentos.
+Profissionais de tecnologia com mais de 35 anos, que não esteja trabalhando atualmente e que queira atualizar os seus conhecimentos.
 
 *"Panela velha é que faz comida boa"* - **Reis, Sergio**.
 
