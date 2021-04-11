@@ -10,7 +10,7 @@ Espaço criado para as pessoas que estão em busca de uma oportunidade ou realoc
 ### Nossas Oportunidades
 
 - [Especialista UI/UX](https://github.com/optsoldev/optsol-challenges/tree/master/ui_ux_cases)
-- [Programa Formatanto Mainfrane](https://github.com/optsoldev/optsol-challenges/tree/master/projeto_mainframe)
+- [Programa Formatanto Mainframe](https://github.com/optsoldev/optsol-challenges/tree/master/projeto_mainframe)
 
 ### Nossa Mídias
 
