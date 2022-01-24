@@ -14,7 +14,7 @@ Aplicação: [Azure-Samples](https://github.com/Azure-Samples/dotnet-core-api)
 Que utilize das técnicas de DevOps dentro do Azure Devops para criar CI e CD e provisione os artefatos de infraestrutura no Portal Azure.
 
 ### Como esperamos
-Você terá **4** dias para criar os arquivos YAML para CI as configurações de Deploy e os Artefatos no Portal Azure (link de acesso), que será enviado ao email vagas@optsol.com.br com o assunto "[DevOps]-[SEU NOME] [CIDADE]".
+Arquivos YAML conténdo as definições da CI e os Artefatos no Portal Azure (link de acesso), que será enviado ao email vagas@optsol.com.br com o assunto "[DevOps]-[SEU NOME] [CIDADE]".
 
 ### O que oferecemos
 - [x] Trabalho remoto
