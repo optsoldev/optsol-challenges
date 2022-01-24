@@ -16,7 +16,7 @@ Sou um vendedor ambulante, fico pelas praias de Vila Velha-ES vendendo meu produ
 Que utilize das técnicas de usabilidade para determinar a experiencia do usuário e que crie um protótipo funcional para avaliarmos o seu conhecimento.
 
 ### Como esperamos
-Você terá **10** dias para enviar um protótipo de alta fidelidade, utilizando plataformas de prototipagem como figma, XD ou semelhantes, que será enviado ao email vagas@optsol.com.br com o assunto "[UI/UX]-[SEU NOME] [CIDADE]".
+Um protótipo de alta fidelidade, utilizando plataformas de prototipagem como figma, XD ou semelhantes, que será enviado ao email vagas@optsol.com.br com o assunto "[UI/UX]-[SEU NOME] [CIDADE]".
 
 
 ### O que oferecemos
